@@ -79,16 +79,16 @@
           "type": "product",
           "settings": {
             "product": "blue-silk-tuxedo",
-            "button_top": 14,
-            "button_right": 4
+            "button_top": 23,
+            "button_right": 6
           }
         },
         "product_3": {
           "type": "product",
           "settings": {
             "product": "chequered-red-shirt",
-            "button_top": 10,
-            "button_right": 5
+            "button_top": 8,
+            "button_right": 16
           }
         },
         "product_4": {
