@@ -131,7 +131,7 @@
         "color_scheme": "",
         "image_ratio": "square",
         "quick_add": "standard",
-        "gap": 2,
+        "gap": 20,
         "columns_desktop": "3",
         "heading_align_desktop": "center",
         "desktop_button_size": 3,
