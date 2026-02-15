@@ -50,7 +50,7 @@
         "header_description_mobile": "Find the ideal gift for your loved ones.",
         "header_button_label": "CHOOSE GIFT",
         "header_button_link": "",
-        "header_bg_color": "#ffffff",
+        "header_bg_color": "#f3f3f3",
         "background_image": "shopify://shop_images/Desktop_banner.png",
         "image_height": "adapt",
         "show_text_box": false,
@@ -61,7 +61,7 @@
         "mobile_content_alignment": "center",
         "strip_text": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL",
         "mobile_strip_text": "SUSTAINABLE, ETHICALLY MADE ACTIVEWEAR",
-        "strip_bg_color": "#ffffff"
+        "strip_bg_color": "#f3f3f3"
       }
     },
     "grid": {
