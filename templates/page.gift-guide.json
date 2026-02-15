@@ -1,20 +1,16 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
       "type": "gift-guide-banner",
-      "settings": {
-        "header_brand": "TISSO VISON",
-        "header_description": "Find the ideal gift for your loved ones.",
-        "header_button_label": "CHOOSE GIFT",
-        "image_height": "adapt",
-        "strip_text": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL",
-        "mobile_strip_text": "SUSTAINABLE, ETHICALLY MADE ACTIVEWEAR",
-        "show_text_box": false,
-        "desktop_content_position": "bottom-left",
-        "desktop_content_alignment": "left",
-        "show_text_box_mobile": false,
-        "mobile_content_alignment": "center"
-      },
       "blocks": {
         "heading": {
           "type": "heading",
@@ -27,14 +23,16 @@
           "type": "text",
           "settings": {
             "text": "Discover Joy: Your Ultimate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.",
-            "mobile_text": "Discover Joy: Your Ultimate Holiday Gift Destination."
+            "mobile_text": "Discover Joy: Your Ultimate Holiday Gift Destination.",
+            "text_style": "body"
           }
         },
         "button": {
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "#gift-guide-products"
+            "button_link": "#gift-guide-products",
+            "button_style_secondary": false
           }
         }
       },
@@ -42,25 +40,35 @@
         "heading",
         "text",
         "button"
-      ]
+      ],
+      "settings": {
+        "header_logo": "shopify://shop_images/logo-1.png",
+        "header_logo_width": 15,
+        "header_logo_mobile_width": 13,
+        "header_brand": "TISSO VISON",
+        "header_description": "Find the ideal gift for your loved ones.",
+        "header_description_mobile": "Find the ideal gift for your loved ones.",
+        "header_button_label": "CHOOSE GIFT",
+        "header_button_link": "",
+        "header_bg_color": "#ffffff",
+        "image_height": "adapt",
+        "show_text_box": false,
+        "desktop_content_position": "bottom-left",
+        "desktop_content_alignment": "left",
+        "show_text_box_mobile": false,
+        "mobile_content_alignment": "center",
+        "strip_text": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL",
+        "mobile_strip_text": "SUSTAINABLE, ETHICALLY MADE ACTIVEWEAR",
+        "strip_bg_color": "#ffffff"
+      }
     },
     "grid": {
       "type": "gift-guide-grid",
-      "settings": {
-        "title": "Tisso vison in the wild",
-        "heading_size": "h1",
-        "full_width": false,
-        "image_ratio": "square",
-        "quick_add": "standard",
-        "columns_desktop": "3",
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      },
       "blocks": {
         "product_1": {
           "type": "product",
           "settings": {
+            "product": "",
             "button_top": 15,
             "button_right": 10
           }
@@ -68,6 +76,7 @@
         "product_2": {
           "type": "product",
           "settings": {
+            "product": "",
             "button_top": 14,
             "button_right": 4
           }
@@ -75,6 +84,7 @@
         "product_3": {
           "type": "product",
           "settings": {
+            "product": "",
             "button_top": 10,
             "button_right": 5
           }
@@ -82,6 +92,7 @@
         "product_4": {
           "type": "product",
           "settings": {
+            "product": "",
             "button_top": 5,
             "button_right": 7
           }
@@ -89,6 +100,7 @@
         "product_5": {
           "type": "product",
           "settings": {
+            "product": "",
             "button_top": 7,
             "button_right": 13
           }
@@ -96,6 +108,7 @@
         "product_6": {
           "type": "product",
           "settings": {
+            "product": "",
             "button_top": 6,
             "button_right": 10
           }
@@ -108,7 +121,27 @@
         "product_4",
         "product_5",
         "product_6"
-      ]
+      ],
+      "settings": {
+        "title": "Tisso vison in the wild",
+        "heading_size": "h1",
+        "full_width": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "quick_add": "standard",
+        "gap": 2,
+        "columns_desktop": "3",
+        "heading_align_desktop": "center",
+        "desktop_button_size": 3,
+        "columns_mobile": "2",
+        "heading_align_mobile": "center",
+        "mobile_button_top": 1,
+        "mobile_button_right": 1,
+        "mobile_button_size": 3,
+        "auto_add_product": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
