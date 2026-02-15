@@ -1,0 +1,118 @@
+{
+  "sections": {
+    "banner": {
+      "type": "gift-guide-banner",
+      "settings": {
+        "header_brand": "TISSO VISON",
+        "header_description": "Find the ideal gift for your loved ones.",
+        "header_button_label": "CHOOSE GIFT",
+        "image_height": "adapt",
+        "strip_text": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL",
+        "mobile_strip_text": "SUSTAINABLE, ETHICALLY MADE ACTIVEWEAR",
+        "show_text_box": false,
+        "desktop_content_position": "bottom-left",
+        "desktop_content_alignment": "left",
+        "show_text_box_mobile": false,
+        "mobile_content_alignment": "center"
+      },
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Gift Guide",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Discover Joy: Your Ultimate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.",
+            "mobile_text": "Discover Joy: Your Ultimate Holiday Gift Destination."
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "#gift-guide-products"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ]
+    },
+    "grid": {
+      "type": "gift-guide-grid",
+      "settings": {
+        "title": "Tisso vison in the wild",
+        "heading_size": "h1",
+        "full_width": false,
+        "image_ratio": "square",
+        "quick_add": "standard",
+        "columns_desktop": "3",
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      },
+      "blocks": {
+        "product_1": {
+          "type": "product",
+          "settings": {
+            "button_top": 15,
+            "button_right": 10
+          }
+        },
+        "product_2": {
+          "type": "product",
+          "settings": {
+            "button_top": 14,
+            "button_right": 4
+          }
+        },
+        "product_3": {
+          "type": "product",
+          "settings": {
+            "button_top": 10,
+            "button_right": 5
+          }
+        },
+        "product_4": {
+          "type": "product",
+          "settings": {
+            "button_top": 5,
+            "button_right": 7
+          }
+        },
+        "product_5": {
+          "type": "product",
+          "settings": {
+            "button_top": 7,
+            "button_right": 13
+          }
+        },
+        "product_6": {
+          "type": "product",
+          "settings": {
+            "button_top": 6,
+            "button_right": 10
+          }
+        }
+      },
+      "block_order": [
+        "product_1",
+        "product_2",
+        "product_3",
+        "product_4",
+        "product_5",
+        "product_6"
+      ]
+    }
+  },
+  "order": [
+    "banner",
+    "grid"
+  ]
+}
