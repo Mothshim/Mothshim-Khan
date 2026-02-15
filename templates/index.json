@@ -1,75 +1,153 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "gift_guide_banner_x4bcPq": {
+      "type": "gift-guide-banner",
       "blocks": {
-        "heading": {
+        "heading_U6iMTh": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
+            "heading": "The Gift Guide",
+            "heading_size": "h1"
           }
         },
-        "button": {
-          "type": "buttons",
+        "text_jmimnb": {
+          "type": "text",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "Discover Joy: Your Ultimate Holiday Gift Destination. Explore our curated selection and find the perfect gifts to delight your loved ones this holiday season.",
+            "mobile_text": "Discover Joy: Your Ultimate Holiday Gift Destination.",
+            "text_style": "body"
+          }
+        },
+        "button_yhaJQT": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "#gift-guide-products",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "heading_U6iMTh",
+        "text_jmimnb",
+        "button_yhaJQT"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
+        "header_logo": "shopify://shop_images/logo-1.png",
+        "header_logo_width": 15,
+        "header_logo_mobile_width": 13,
+        "header_brand": "",
+        "header_description": "Find the ideal gift for your loved ones.",
+        "header_description_mobile": "Find the ideal gift for your loved ones.",
+        "header_button_label": "CHOOSE GIFT",
+        "header_button_link": "",
+        "header_bg_color": "#f3f3f3",
+        "background_image": "shopify://shop_images/Desktop_banner.png",
+        "image_height": "adapt",
         "show_text_box": false,
-        "image_behavior": "none",
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
+        "desktop_content_position": "bottom-left",
+        "desktop_content_alignment": "left",
+        "mobile_image": "shopify://shop_images/Frame_2.png",
+        "show_text_box_mobile": false,
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "strip_text": "SUSTAINABLE, ETHICALLY MADE CLOTHES IN SIZES XXS TO 6XL",
+        "mobile_strip_text": "SUSTAINABLE, ETHICALLY MADE ACTIVEWEAR",
+        "strip_bg_color": "#f3f3f3"
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "gift_guide_grid_rmnnHk": {
+      "type": "gift-guide-grid",
+      "blocks": {
+        "product_zKz3mK": {
+          "type": "product",
+          "settings": {
+            "product": "black-leather-bag",
+            "button_top": 25,
+            "button_right": 16
+          }
+        },
+        "product_FdEExj": {
+          "type": "product",
+          "settings": {
+            "product": "blue-silk-tuxedo",
+            "button_top": 23,
+            "button_right": 6
+          }
+        },
+        "product_ih3K37": {
+          "type": "product",
+          "settings": {
+            "product": "chequered-red-shirt",
+            "button_top": 8,
+            "button_right": 16
+          }
+        },
+        "product_C9HJc3": {
+          "type": "product",
+          "settings": {
+            "product": "classic-leather-jacket",
+            "button_top": 7,
+            "button_right": 12
+          }
+        },
+        "product_y7UbqE": {
+          "type": "product",
+          "settings": {
+            "product": "classic-varsity-top",
+            "button_top": 11,
+            "button_right": 20
+          }
+        },
+        "product_Ae7JFi": {
+          "type": "product",
+          "settings": {
+            "product": "dark-denim-top",
+            "button_top": 17,
+            "button_right": 10
+          }
+        }
+      },
+      "block_order": [
+        "product_zKz3mK",
+        "product_FdEExj",
+        "product_ih3K37",
+        "product_C9HJc3",
+        "product_y7UbqE",
+        "product_Ae7JFi"
+      ],
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
+        "title": "Tisso vison in the wild",
+        "heading_size": "h1",
         "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
+        "color_scheme": "",
+        "image_ratio": "square",
+        "quick_add": "standard",
+        "gap": 20,
+        "columns_desktop": "3",
+        "heading_align_desktop": "center",
+        "desktop_button_size": 3,
         "columns_mobile": "2",
-        "padding_top": 44,
+        "heading_align_mobile": "center",
+        "mobile_button_top": 2,
+        "mobile_button_right": 4,
+        "mobile_button_size": 2,
+        "auto_add_product": "dark-winter-jacket",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "image_banner",
-    "featured_collection"
+    "gift_guide_banner_x4bcPq",
+    "gift_guide_grid_rmnnHk"
   ]
 }
