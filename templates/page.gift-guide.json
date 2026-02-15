@@ -140,7 +140,7 @@
         "mobile_button_top": 2,
         "mobile_button_right": 4,
         "mobile_button_size": 2,
-        "auto_add_product": "",
+        "auto_add_product": "dark-winter-jacket",
         "padding_top": 36,
         "padding_bottom": 36
       }
