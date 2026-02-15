@@ -95,8 +95,8 @@
           "type": "product",
           "settings": {
             "product": "classic-leather-jacket",
-            "button_top": 5,
-            "button_right": 7
+            "button_top": 7,
+            "button_right": 12
           }
         },
         "product_5": {
