@@ -103,8 +103,8 @@
           "type": "product",
           "settings": {
             "product": "classic-varsity-top",
-            "button_top": 7,
-            "button_right": 13
+            "button_top": 11,
+            "button_right": 20
           }
         },
         "product_6": {
