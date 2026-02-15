@@ -70,15 +70,15 @@
         "product_1": {
           "type": "product",
           "settings": {
-            "product": "",
-            "button_top": 15,
-            "button_right": 10
+            "product": "black-leather-bag",
+            "button_top": 25,
+            "button_right": 16
           }
         },
         "product_2": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "blue-silk-tuxedo",
             "button_top": 14,
             "button_right": 4
           }
@@ -86,7 +86,7 @@
         "product_3": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "chequered-red-shirt",
             "button_top": 10,
             "button_right": 5
           }
@@ -94,7 +94,7 @@
         "product_4": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "classic-leather-jacket",
             "button_top": 5,
             "button_right": 7
           }
@@ -102,7 +102,7 @@
         "product_5": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "classic-varsity-top",
             "button_top": 7,
             "button_right": 13
           }
@@ -110,7 +110,7 @@
         "product_6": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "dark-denim-top",
             "button_top": 6,
             "button_right": 10
           }
