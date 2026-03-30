@@ -55,7 +55,7 @@
         "image_height": "adapt",
         "show_text_box": false,
         "desktop_content_position": "bottom-left",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "mobile_image": "shopify://shop_images/Frame_2.png",
         "show_text_box_mobile": false,
         "mobile_content_alignment": "center",
